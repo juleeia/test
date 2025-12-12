@@ -31,7 +31,7 @@ TERMINOLOGY EXPLANATION
   > requires protocol to identify WHERE the resource is
   ie. https://example.com, mailto:user@example.com
 _______________________________________________________________
-HTML Lessons!
+!
 
 - div
   > display block (꽉 채운다)
